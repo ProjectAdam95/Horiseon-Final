@@ -38,6 +38,8 @@ Below is a view of the file structure deployed to GitHub.
 ├── README.md
 └── index.html
 
+```
+
 
 
 ###  :hammer: Build
