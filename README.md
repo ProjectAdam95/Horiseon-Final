@@ -53,7 +53,10 @@ Below is a view of the file structure deployed to GitHub.
 
 
 ### :rocket: Deployment
-- To deplote the website. Navigate to the index.html file in the repossitory to deploy the webpage on your local browser. If you do not have a code editor such as VS code to view the html/css code try clicking the F12 button on your web browser to view the console and navigate through the elements on the page!
+
+- To deploy the website please visit : 
+
+- If this does not work you can navigate to the index.html file in the repossitory to deploy the webpage on your local browser. If you do not have a code editor such as VS code to view the html/css code try clicking the F12 button on your web browser to view the console and navigate through the elements on the page!
 
  ###  :fire: Contribution
 
@@ -81,4 +84,4 @@ https://static.bc-edx.com/coding/software-dev/01-HTML-Git-CSS/assets/01-html-css
 Adam Todorovic
 
 ##  :lock: License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License.
