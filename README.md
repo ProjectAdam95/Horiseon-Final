@@ -1,12 +1,7 @@
 # Introduction
-- Horiseon  (updated)
-- I have modified the existing website to give it accessibility standards to allow users to view and interact. It has been optimized for search engines.
-- Changes include:
-- Semantic HTML elements.
-- Elements follow logical structure and layout.
-- Accessible alt attributes for images displayed.
-- Heading attributes that follow seqquential order.
-- Title of webpage has been uploaded
+  Horiseon (updated 2.0)
+
+  Please read below on the updated version of the Horiseon website.
 
 
 ## :ledger: Index
@@ -17,14 +12,25 @@
   - [Deployment](#rocket-deployment)  
 - [Community](#cherry_blossom-community)
   - [Contribution](#fire-contribution)
-- [FAQ](#question-faq)
 - [Resources](#page_facing_up-resources)
 - [Gallery](#camera-gallery)
 - [Credit/Acknowledgment](#star2-creditacknowledgment)
 - [License](#lock-license)
 
 ##  :beginner: About
-An updated version of the Horiseon website that involves logical and functional structure that is accessible.
+  An updated version of the Horiseon website that involves logical and functional structure that is accessible.
+- I have modified the existing website to give it accessibility standards to allow users to view and interact. It has been optimized for search engines.
+  
+  Changes include:
+- Semantic HTML elements.
+- Elements follow logical structure and layout.
+- Accessible alt attributes for images displayed.
+- Images are displayed at the correct resolution.
+- Webpage colors as per request.
+- Heading attributes that follow sequential order.
+- Title of webpage has been uploaded
+- Ensured links are functioning correctly
+- Footer element in positon with correct sizing.
 
 ###  :file_folder: File Structure
 Below is a view of the file structure deployed to GitHub.
@@ -40,11 +46,6 @@ Below is a view of the file structure deployed to GitHub.
 
 ```
 
-<<<<<<< HEAD
-=======
-
->>>>>>> c79f63804fbe40373412587b339b4eb20ff1d706
-
 ###  :hammer: Build
 
 - File changes updated and modified using terminal eg. Git bash to add, commit and pull e.t.c.
@@ -52,11 +53,11 @@ Below is a view of the file structure deployed to GitHub.
 
 
 ### :rocket: Deployment
-1. Naviagte to the index.html file to deploy and test out updated features in website that have been made accessible.
+- To deplote the website. Navigate to the index.html file in the repossitory to deploy the webpage on your local browser. If you do not have a code editor such as VS code to view the html/css code try clicking the F12 button on your web browser to view the console and navigate through the elements on the page!
 
  ###  :fire: Contribution
 
- Your contributions are always welcome and greatly appreciated. Here are some ways you can contribute to the project:
+ - Your contributions are always welcome and greatly appreciated. Here are some ways you can contribute to the project:
 
  1. **Report a bug** <br>
  If you think you have encountered a bug, and I should know about it, feel free to report it [here]() I will look into it and take the necessary steps.
@@ -66,10 +67,6 @@ Below is a view of the file structure deployed to GitHub.
 
  3. **Create a pull request** <br>
  The best way to contribute is by creating a pull request. The community will appreciate your efforts. You can start by picking up any open issues from [here]()and submitting a pull request.
-
-
-## :question: FAQ
-You can optionally add a FAQ section about the project.
 
 ##  :page_facing_up: Resources
 Software used
@@ -85,4 +82,3 @@ Adam Todorovic
 
 ##  :lock: License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
