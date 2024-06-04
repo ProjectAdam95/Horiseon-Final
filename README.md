@@ -29,6 +29,9 @@ An updated version of the Horiseon website that involves logical and functional 
 ###  :file_folder: File Structure
 Below is a view of the file structure deployed to GitHub.
 .
+
+
+
 ├── assets
 │   ├── css
 │   │   └── style.css
