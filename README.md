@@ -34,7 +34,7 @@ Below is a view of the file structure deployed to GitHub.
 │   ├── css
 │   │   └── style.css
 │   ├── images
-│   │   └── Preview photo
+│   └── Preview photo
 ├── README.md
 └── index.html
 
