@@ -40,6 +40,10 @@ Below is a view of the file structure deployed to GitHub.
 
 ```
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c79f63804fbe40373412587b339b4eb20ff1d706
 
 ###  :hammer: Build
 
