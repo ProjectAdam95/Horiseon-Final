@@ -29,12 +29,12 @@ An updated version of the Horiseon website that involves logical and functional 
 ###  :file_folder: File Structure
 Below is a view of the file structure deployed to GitHub.
 
-
+```plaintext
 ├── assets
-│ ├── css
-│ │ └── style.css
-│ ├── images
-│ └── Preview photo
+│   ├── css
+│   │   └── style.css
+│   ├── images
+│   │   └── Preview photo
 ├── README.md
 └── index.html
 
